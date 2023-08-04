@@ -34,10 +34,7 @@ The Java application provides a graphical user interface (GUI) for interacting w
 1. Clone the repository: You can clone this project repository to your local machine using the following command:
 
 ```
-git clone https://github.com/your_username/crime-investigation-system.git
-```
-
-Replace `your_username` with your GitHub username.
+git clone https://github.com/Ayyubiy90/crime-investigation-system.git
 
 2. Set up the Database: Before running the Java application, ensure that you have set up the database and imported the necessary schema. You may use a MySQL or any other suitable database management system.
 
